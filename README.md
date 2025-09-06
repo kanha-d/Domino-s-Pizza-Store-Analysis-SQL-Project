@@ -119,14 +119,25 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 ---
 
-## </> Let's practice along with Course 🎧
+## </> Let's practice questions on Playground 🎧
 
-![playground.traidev.com](http://playground.traidev.com/)(https://traidev.com//assets/images/playground.gif)
+Work through real-world scenarios and exercises as you move through each section of the course for deeper mastery.
+
+[Player](http://playground.traidev.com)
+
+![playground.traidev.com](https://traidev.com//assets/images/playground.gif)
+
+---
 
 
-## Complete SQL Course 
 
-![Course](https://traidev.com/course/complete-sql-course-for-beginners-in-hindi)(https://traidev.com//assets/images/courses/complete-sql-course-for-beginners-in-hindi.jpeg)
+## Complete SQL Course
+Master SQL & MySQL: The Complete Bootcamp for Beginners & Experts is a comprehensive course designed to take you from the basics of SQL to advanced MySQL techniques.
+
+[Coure Link](https://traidev.com/course/complete-sql-course-for-beginners-in-hindi)
+
+
+![Course](https://traidev.com//assets/images/courses/complete-sql-course-for-beginners-in-hindi.jpeg)
 
 
 ---
