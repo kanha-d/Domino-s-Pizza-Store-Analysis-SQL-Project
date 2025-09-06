@@ -1,7 +1,7 @@
 ![dominoz pizza](https://finshiksha.com/wp-content/uploads/2021/06/Dominos-Banner-Image-2-1.jpg)
 
 
----
+
 
 
 # 🍕 Domino’s Pizza Store Analysis SQL Project
