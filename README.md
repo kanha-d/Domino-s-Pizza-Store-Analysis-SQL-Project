@@ -1,4 +1,4 @@
-# Domino’s Pizza Store Analysis SQL Project
+# 🍕 Domino’s Pizza Store Analysis SQL Project
 
 ## Project Overview
 
