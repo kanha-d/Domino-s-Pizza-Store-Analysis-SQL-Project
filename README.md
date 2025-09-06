@@ -119,6 +119,18 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 ---
 
+## </> Let's practice along with Course 🎧
+
+![playground.traidev.com](http://playground.traidev.com/)(https://traidev.com//assets/images/playground.gif)
+
+
+## Complete SQL Course 
+
+![Course](https://traidev.com/course/complete-sql-course-for-beginners-in-hindi)(https://traidev.com//assets/images/courses/complete-sql-course-for-beginners-in-hindi.jpeg)
+
+
+---
+
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
