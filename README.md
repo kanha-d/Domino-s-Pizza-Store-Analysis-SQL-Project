@@ -1,4 +1,4 @@
-![dominoz pizza](https://scontent.fstv8-1.fna.fbcdn.net/v/t39.30808-6/507545519_10162888756224208_4646836558918591724_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=b9xvCjw2z34Q7kNvwFz1dWZ&_nc_oc=AdkL61JgOPUbgM1_GAtaaZGcKfFIV78D2Hn54lP-mlfmAfOOun0hJc0QIHA6O8LyGbuvBUfHpSk04uJHmFl7FKSj&_nc_zt=23&_nc_ht=scontent.fstv8-1.fna&_nc_gid=Si0nyqEeUHZ574mYHKNmPA&oh=00_AfbXTiGiJTXkLvBDZ7p8ncY7pxxAsW2CqQHmgOYKdzAMTg&oe=68C5741B)
+![dominoz pizza](https://traidev.com/thumb/dominos.png)
 
 
 
